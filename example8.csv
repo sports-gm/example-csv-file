@@ -1275,6 +1275,6 @@ LR,BAT
 # Dates Section, these must match exactly the events here. Required if Games is Provided
 event,dayOfWeek,nthWeek,month
 # first monday first week in January
-all_star_game,1,1
+all_star_game,1,1,1
 # third tuesday in February
 trade_deadline,2,3,2
